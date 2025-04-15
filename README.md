@@ -4,7 +4,7 @@ In the simplest sense, a **Monte Carlo simulation** is a computational algorithm
 
 ---
 
-## 🧠 Procedure
+## Procedure
 
 1. **Define your problem statement**  
 Define your problem statement, as Monte Carlo algorithms can be used in various modeling situations 
